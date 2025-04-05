@@ -1,4 +1,4 @@
-Mickey și Donald
+# Mickey și Donald
 În viața reală există mai multe tipuri de gândire. Unii oameni gândesc în imagini, unii în cuvinte, unii în concepte etc. De aceea "gândește înainte să spui ceva" nu funcționează pentru toată lumea... Dacă pui un coechipier să își imagineze o rață, cum va arăta rezultatul? (v. aphantasia test)
 
 Mickey a băut mult prea mult lapte după workshopuri asa ca a început să încurce cuvintele între ele. El gândește în concepte, așa că nu observă diferența. Donald, în schimb, e în echipa lui la un hackathon și are nevoie să înțeleagă despre ce vorbește. Donald și Mickey sunt prieteni de foarte mult timp, așa că odată ce a înțeles contextul îi va fi foarte ușor să ghicească și ce a încercat să spună. Ajutați-l pe Donald!
