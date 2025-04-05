@@ -1,4 +1,4 @@
-#Find the Ducks
+# Find the Ducks
 În viața reală există mai multe tipuri de gândire. Unii oameni gândesc în imagini, unii în cuvinte, unii în concepte etc. De aceea "gândește înainte să spui ceva" nu funcționează pentru toată lumea... Dacă pui un coechipier să își imagineze o rață, cum va arăta rezultatul? (v. aphantasia test)
 
 Noi am încercat să punem un LLM să-și imagineze rața Nitro în diverse contexte și am decis ca rezultatul va fi unul dintre task-urile voastre de azi.
